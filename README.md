@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=backend%20Virtuoso&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=backend%20Virtuoso&fontSize=70)
 
 ![Hwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=backendVirtuoso&show_icons=true&theme=dracula)
 

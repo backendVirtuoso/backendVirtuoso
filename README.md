@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=backend%20Virtuoso&fontSize=70)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=backendVirtuoso&show_icons=true&theme=dracula)
+
+<a href="https://github.com/backendVirtuoso"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendVirtuoso&layout=compact&theme=nord&hide_border=true" /></a>
+
+### 🛠 Languages and Tools
+
+
 <!--
 **backendVirtuoso/backendVirtuoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

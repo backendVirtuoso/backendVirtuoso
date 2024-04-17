@@ -36,7 +36,7 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendVirtuoso&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=backendVirtuoso&show_icons=true">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=backendVirtuoso&show_icons=true">-->
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=80" />	

@@ -40,7 +40,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </div>
 
-<br>
+<br><br><br>
 
 <div align=center>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,9 +50,18 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=backendVirtuoso" width="400px" />
 	</a>
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=backendVirtuoso&theme=react-light&bg_color=ffffff&hide_border=true&line=000000&color=000000" width="700px"/>
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=backendVirtuoso&theme=react-light&bg_color=ffffff&hide_border=true&line=87CEEB&color=000000&point=777777" width="800px"/>
 	</a>
 </div>
+
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=80" />	
 </div>
+
+
+<!-- 뱀 모양
+<div align=center>
+	<img src="https://github.com/backendVirtuoso/backendVirtuoso/blob/output/github-snake.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark" width="80%">
+</div> 
+-->
+

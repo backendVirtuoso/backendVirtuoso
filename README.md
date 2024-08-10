@@ -48,15 +48,9 @@
 
 <div align=center>
 	<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendVirtuoso&layout=compact" width="300px" />
-	</a>    
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api?username=backendVirtuoso" width="400px" />
-	</a>
-	<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=backendVirtuoso&theme=react-light&bg_color=ffffff&hide_border=true&line=87CEEB&color=000000&point=777777" width="800px"/>
-	</a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendVirtuoso&layout=compact" width="300px" />
+	<img src="https://github-readme-stats.vercel.app/api?username=backendVirtuoso" width="400px" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=backendVirtuoso&theme=react-light&bg_color=ffffff&hide_border=true&line=87CEEB&color=000000&point=777777" width="800px"/>
 </div>
 
 <div align=center>

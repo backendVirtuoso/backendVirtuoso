@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-	<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+	<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
 	<div align=center>
 		<h4>Frontend</h4>
 		<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />

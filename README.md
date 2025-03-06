@@ -38,10 +38,10 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=backendVirtuoso" width="400px" />
 </div>
 
-<!--
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=%20&fontSize=80" />	
 </div>
+<!--
 
 <div align=center>
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=backendVirtuoso&theme=react-light&bg_color=ffffff&hide_border=true&line=87CEEB&color=000000&point=777777" width="800px"/>

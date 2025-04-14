@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=backend%20Virtuoso&fontSize=80" />	
 </div> 
 
-<div align=center>
+<div align=center> 
 	<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
 	<div align=center> 
 		<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />

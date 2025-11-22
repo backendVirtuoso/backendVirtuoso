@@ -96,7 +96,7 @@ Spring Boot 기반의 백엔드 개발과 React/Next.js를 활용한 풀스택 �
 
 ---
 
-<div align=center>
+<!--<div align=center>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
 
@@ -109,9 +109,7 @@ Spring Boot 기반의 백엔드 개발과 React/Next.js를 활용한 풀스택 �
 	</a>
 </div>
 
-</div>
-
-<br>
+</div>-->
 
 <div align=center>
 
@@ -124,10 +122,10 @@ Spring Boot 기반의 백엔드 개발과 React/Next.js를 활용한 풀스택 �
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=backendVirtuoso&theme=default" width="400px" /> -->
 
 </div>
-
+<!--
 <div align=center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=%20&fontSize=80" />
 
 </div>
-
+-->
